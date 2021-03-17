@@ -1,9 +1,6 @@
-# using my python environment 'lazypredict'
+# use python environment 'lazypredict'
 
-# Demo
-
-Launch the web app:
-
+# Directions:
 ### Create conda environment
 Firstly, we will create a conda environment called *lazypredict*
 ```
