@@ -12,8 +12,6 @@ conda activate lazypredict
 ```
 ### Install prerequisite libraries
 
-Download requirements.txt file
-
 
 Pip install libraries
 ```
