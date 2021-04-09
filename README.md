@@ -15,7 +15,7 @@ Pip install libraries
 pip install -r requirements.txt
 ```
 
-###  Launch the app
+###  Launch the program
 ```
 streamlit run app.py
 ```
